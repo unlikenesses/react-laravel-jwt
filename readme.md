@@ -1,0 +1,1 @@
+Example code for a React app interacting with a Laravel API using JSON Web Tokens.
